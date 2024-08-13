@@ -2,6 +2,10 @@
 
 Cub3D is a project that immerses you in the fundamentals of ray-casting. The goal is to navigate through a dynamic 3D view within a complex maze. This project will help you enhance your understanding of real-time rendering and maze exploration.
 
+## Video Demonstration
+
+[![Video Thumbnail](assets/video-thumbnail.jpg)](https://github.com/ReemTaha-sw/Cub3D/blob/main/references/cub3d_small.mp4)
+
 ## Features
 
 - **Ray-Casting Engine**: Experience a simple but effective 3D graphics engine based on ray-casting.
