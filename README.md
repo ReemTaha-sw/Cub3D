@@ -27,24 +27,9 @@ Get a glimpse of the gameplay and features of **Cub3D** in action 🌟
   <a href="#textures">Textures</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#troubleshooting">Troubleshooting</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contribution">Contribution</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contribution-🤝">Contribution</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
 </p>
-
- - [Acknowledgments 👏](#acknowledgments-👏)
-
- - ## Table of Contents
-- [Features ✨](#features-✨)
-- [Installation 🛠️](#installation-🛠️)
-- [Getting Started 🚀](#getting-started-🚀)
-- [How to Play 🎮](#how-to-play-🎮)
-- [Map Format 🗺️](#map-format-🗺️)
-- [Textures 🖼️](#textures-🖼️)
-- [Troubleshooting 🛠️](#troubleshooting-🛠️)
-- [License 📄](#license-📄)
-- [Contribution 🤝](#contribution-🤝)
-- [Acknowledgments 👏](#acknowledgments-👏)
-
 
 ---
 
