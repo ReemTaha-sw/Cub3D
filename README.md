@@ -1,8 +1,8 @@
 <h2 align="center">Cub3D 🕹️</h2>
   
-<p align="center">  
-Dive into the world of retro gaming with **Cub3D**—an immersive project that challenges your understanding of ray-casting and real-time 3D rendering. Navigate through a complex maze and experience the foundational principles that powered the early days of 3D graphics.
-Get a glimpse of the gameplay and features of **Cub3D** in action 🌟
+<p align="center">
+  Dive into the world of retro gaming with <strong>Cub3D</strong>—an immersive project that challenges your understanding of ray-casting and real-time 3D rendering. Navigate through a complex maze and experience the foundational principles that powered the early days of 3D graphics.<br>
+  Get a glimpse of the gameplay and features of <strong>Cub3D</strong> in action 🌟
 </p>
 
 <p align="center">
