@@ -4,14 +4,9 @@ Cub3D is a project that immerses you in the fundamentals of ray-casting. The goa
 
 ## Video Demonstration
 
-[![Video Thumbnail](assets/video-thumbnail.jpg)](https://github.com/ReemTaha-sw/Cub3D/blob/main/references/cub3d_small.mp4)
 
-<video src="https://github.com/ReemTaha-sw/Cub3D/blob/main/references/small.mp4" controls="controls" style="max-width: 100%; height: auto;">
-   Your browser does not support the video tag.
-</video>
+![african_map_new](https://github.com/user-attachments/assets/a7647355-6ba7-4a67-aa11-a9d2605901db)
 
-
-[Watch the video](https://github.com/ReemTaha-sw/Cub3D/blob/main/references/small.mp4)
 
 
 
