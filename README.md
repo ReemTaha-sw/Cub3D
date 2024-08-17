@@ -31,9 +31,6 @@ Get a glimpse of the gameplay and features of **Cub3D** in action 🌟
   <a href="#acknowledgments-👏">Acknowledgments</a>
 </p>
 
-
-[Contribution 🤝](#-contribution-🤝)
-
 ---
 
 ## Features ✨
