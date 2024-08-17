@@ -28,7 +28,7 @@ Get a glimpse of the gameplay and features of **Cub3D** in action 🌟
   <a href="#troubleshooting">Troubleshooting</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribution">Contribution</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#acknowledgments">Acknowledgments</a>
+  <a href="#acknowledgments-👏">Acknowledgments</a>
 </p>
 
 
